@@ -41,6 +41,13 @@ Make sure you have the following installed:
 
 ### ✅ Clone and Run
 
-```bash
-git clone https://github.com/YOUR_USERNAME/erp.cse.org.git
-cd erp.cse.org
+## 📸 Screenshots
+
+### 🔹 Student portal page
+![Home Page](screenshots/student_portal_4.jpg)
+
+### 🔹 AI Placement predictor
+![Dashboard](screenshots/AI_placement_predictor.jpg)
+
+### 🔹 Backend
+![Dashboard](screenshots/backend.jpg)
