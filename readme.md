@@ -44,10 +44,10 @@ Make sure you have the following installed:
 ## 📸 Screenshots
 
 ### 🔹 Student portal page
-![Home Page](screenshots/student_portal_4.jpg)
+![Home Page](student_portal_4.jpg)
 
 ### 🔹 AI Placement predictor
-![Dashboard](screenshots/AI_placement_predictor.jpg)
+![Dashboard](AI_placement_predictor.jpg)
 
 ### 🔹 Backend
-![Dashboard](screenshots/backend.jpg)
+![Dashboard](backend.jpg)
